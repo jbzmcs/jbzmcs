@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXA0cmNlZmcxMGU3eGkxc2FsYmw4emNneWJ5bGN0eTU0amdrZDU5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif"  />
+![Header](./your-header-image-name.png)
 </div>
 
 ###
@@ -21,10 +21,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jbzmcs.jbzmcs&"  />
 </div>
-
-###
-
-<h1 align="center">Hello! I'm Jabez👋</h1>
 
 ###
 
