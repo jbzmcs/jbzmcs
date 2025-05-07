@@ -21,10 +21,13 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jbzmcs.jbzmcs&"  />
 </div>
+###
+<br clear="both">
+<h1 align="center"> Thank you for stopping by my Github profile.👋</h1>
 
 ###
 
-<p align="center">Thank you for stopping by my GitHub profile.<br><br>I'm a Computer Engineering student aspiring to become a Software Engineer, building projects that help turn ideas into interactive and functional applications. Always open to learning, collaborating, and creating something meaningful. Feel free to reach out!</p>
+<p align="center"><br><br>I'm a Computer Engineering student aspiring to become a Software Engineer, building projects that help turn ideas into interactive and functional applications. Always open to learning, collaborating, and creating something meaningful. Feel free to reach out!</p>
 
 ###
 
