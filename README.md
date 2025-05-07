@@ -24,11 +24,11 @@
 
 ###
 
-<h1 align="center">Welcome to my Github Profile 👋</h1>
+<h1 align="center">Hello! I'm Jabez👋</h1>
 
 ###
 
-<p align="center">Hello there! Thank you for stopping by my GitHub profile.<br><br>I'm a Computer Engineering student aspiring to become a Software Engineer, building projects that help turn ideas into interactive and functional applications. Always open to learning, collaborating, and creating something meaningful. Feel free to reach out!</p>
+<p align="center">Thank you for stopping by my GitHub profile.<br><br>I'm a Computer Engineering student aspiring to become a Software Engineer, building projects that help turn ideas into interactive and functional applications. Always open to learning, collaborating, and creating something meaningful. Feel free to reach out!</p>
 
 ###
 
