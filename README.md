@@ -1,5 +1,13 @@
-<div align="center">
-  <img src="github-header-image.png" alt="Header" />
+<div align="center" style="position: relative;">
+  <img src="github-header-image.png" alt="Header" width="100%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXA0cmNlZmcxMGU3eGkxc2FsYmw4emNneWJ5bGN0eTU0amdrZDU5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif"
+       alt="Animated Laptop"
+       width="100"
+       style="position: absolute; top: 5px; left: 20px;" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXA0cmNlZmcxMGU3eGkxc2FsYmw4emNneWJ5bGN0eTU0amdrZDU5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif"
+       alt="Animated Laptop"
+       width="100"
+       style="position: absolute; top: 5px; right: 20px;" />
 </div>
 
 ###
