@@ -106,7 +106,7 @@
 
 ###
 
-<h6 align="center">Currently exploring front-end and mobile development, with tools I’ve picked up along the way. Not an expert—just building, breaking, and learning as I go.</h6>
+<h6 align="center">Currently exploring front-end and mobile development, with tools I’ve picked up along the way. Not an expert—just building, and learning as I go.</h6>
 
 ###
 
