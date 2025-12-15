@@ -42,6 +42,7 @@
 🎨 <b>UI/UX Exploration:</b> Currently deep-diving into UI/UX principles to design interfaces that are both functional and aesthetically pleasing.<br>
 💻 <b>Development:</b> Building interactive mobile and web applications using Next.js, React, and Flutter.<br>
 🧠 <b>Interests:</b> Researching Deep Learning architectures and their application in modern Computer Vision problems.<br>
+🚀 <b>Currently Learning: </b> Advanced Web Architecture and Cross-Platform Mobile ecosystems to build scalable, production-ready applications.
 </p>
 
 ###
