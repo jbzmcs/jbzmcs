@@ -5,24 +5,17 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/jabez-macasero-cpe" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/jbezsm-cpe" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://www.hackerrank.com/profile/jbez01" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  
+  <a href="https://dev.to/jbezcpe_01" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dev.to logo" />
   </a>
-  <a href="https://codepen.io/jbzmcs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
-  </a>
-  <a href="https://dribbble.com/jbzmcs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dribbble logo"  />
-  </a>
-  <a href="https://dev.to/jbzmcs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dev.to logo"  />
-  </a>
-  <a href="https://www.datacamp.com/profile/jbzmcs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=DataCamp&logo=datacamp&label=&color=05192D&logoColor=03EFB1&labelColor=&style=for-the-badge" height="25" alt="datacamp logo"  />
-  </a>
+
+<a href="https://www.datacamp.com/profile/jbezmcs" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=DataCamp&logo=datacamp&label=&color=05192D&logoColor=03EFB1&labelColor=&style=for-the-badge" height="25" alt="datacamp logo" />
+</a>
 </div>
 
 ###
