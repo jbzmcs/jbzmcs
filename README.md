@@ -55,14 +55,14 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" alt="python" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="28" alt="pytorch" />
-  <img src="https://img.shields.io/badge/Lightning-%23792ee5.svg?style=for-the-badge&logo=pytorch-lightning&logoColor=white" height="28" alt="pytorch lightning" />
+  <img src="https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge&logo=lightning&logoColor=white" height="28" alt="pytorch lightning" />
   <img src="https://img.shields.io/badge/Torchvision-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="28" alt="torchvision" />
-  <img src="https://img.shields.io/badge/Kornia-%233A2649.svg?style=for-the-badge&logoColor=white" height="28" alt="kornia" />
+  <img src="https://img.shields.io/badge/Kornia-%233A2649.svg?style=for-the-badge&logo=pytorch&logoColor=white" height="28" alt="kornia" />
   <br/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="28" alt="pandas" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="28" alt="numpy" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" height="28" alt="matplotlib" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" height="28" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=black" height="28" alt="matplotlib" />
 </div>
 
 <br>
@@ -70,14 +70,14 @@
 <h4 align="left">🌐 Web & Mobile Development</h4>
 <div align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="28" alt="typescript" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" height="28" alt="nextjs" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" height="28" alt="nextjs" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" alt="react" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" height="28" alt="flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="28" alt="dart" />
+  <!-- <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" height="28" alt="flutter" /> -->
+  <!-- <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="28" alt="dart" /> -->
   <br/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" alt="nodejs" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" alt="javascript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="28" alt="tailwind" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" height="28" alt="tailwind" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="28" alt="bootstrap" />
   <br/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="28" alt="sass" />
@@ -90,8 +90,12 @@
 <h4 align="left">💻 General Software & Embedded</h4>
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28" alt="java" />
-  <img src="https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" height="28" alt="embedded c" />
+  <!-- <img src="https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" height="28" alt="embedded c" /> -->
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" height="28" alt="arduino" />
+  <img src="https://img.shields.io/badge/AVR_C-004A8F?style=for-the-badge&logo=c&logoColor=white" height="28" alt="avr c" />
+  <img src="https://img.shields.io/badge/Intel_Quartus_Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white" height="28" alt="intel quartus" />
+  <img src="https://img.shields.io/badge/Verilog-4B32C3?style=for-the-badge" height="28" alt="verilog" />
+  <img src="https://img.shields.io/badge/FPGA-E53935?style=for-the-badge" height="28" alt="fpga" />
 </div>
 
 <br>
@@ -99,7 +103,7 @@
 <h4 align="left">🎨 UI/UX & Design</h4>
 <div align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="28" alt="figma" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="28" alt="canva" />
+  <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" height="28" alt="canva" />
   <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" height="28" alt="codepen" />
 </div>
 
